@@ -7,6 +7,7 @@ Built with **React 19 + Vite + Tailwind CSS 3 + Framer Motion**.
 
 ## Getting started
 
+
 ```bash
 npm install
 npm run dev
