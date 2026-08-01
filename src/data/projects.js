@@ -28,4 +28,14 @@ export const projects = [
     tech: ["React", "Tailwind CSS"],
     demoUrl: "https://freelancermerlyn14-dotcom.github.io/Weddind-card/",
   },
+  {
+    id: "Dental-Clinic-Website",
+    title: "Dental Clinic Website",
+    type: "web",
+    description:
+      "A professional website helps patients trust your clinic before they even walk through the door.This dental clinic website was designed with a clean interface, responsive layout, and an easy appointment experience.",
+
+    tech: ["Html", "Tailwind CSS"],
+    demoUrl: "https://freelancermerlyn14-dotcom.github.io/dental/",
+  },
 ];
